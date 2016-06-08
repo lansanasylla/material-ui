@@ -85,3 +85,7 @@ The future plans and high priority features and enhancements can be found in the
 
 ## License
 This project is licensed under the terms of the [MIT license](https://github.com/callemall/material-ui/blob/master/LICENSE)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/lansanasylla/material-ui/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
